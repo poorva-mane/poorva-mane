@@ -1,116 +1,102 @@
-# Hi, I'm Poorva Mane 👋
+# 👋 Hi, I'm Poorva Mane
 
-### B.Tech CSE Student | Android Developer | Web Developer | Java Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Android+Developer;Web+Developer;Java+Developer;Always+Learning+%26+Building" />
+</p>
 
-I'm a passionate Computer Science Engineering student interested in **Android development, web development, databases, and cloud technologies**. I enjoy building practical applications and continuously improving my technical skills through projects and hands-on learning.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering
-- 📊 CGPA: **8.8**
-- 💻 Interested in **Android & Web Development**
-- 🌱 Currently improving my skills in **Kotlin, Android, Node.js, React, MongoDB & Firebase**
-- ☁️ Exploring **AWS & Cloud Computing**
-- 🔧 Familiar with **Git & GitHub**
-- 🚀 Interested in developing real-world software applications
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c5cff&height=120&section=header" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 💫 About Me
+
+🎓 **B.Tech Computer Science & Engineering Student**
+
+💻 Passionate about **Android Development & Web Development**
+
+🌱 Currently learning **Kotlin, Node.js, React, MongoDB & AWS**
+
+🚀 I enjoy building practical applications and learning new technologies.
+
+☁️ Exploring **Cloud Computing & AWS**
+
+🔧 Interested in **Software Development, Databases & Backend Development**
+
+---
+
+## 🧑‍💻 Tech Stack
 
 ### 💻 Programming Languages
-- Java
-- C++
-- Kotlin
-- SQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,kotlin,js" />
+</p>
 
 ### 📱 Android Development
-- Android Studio
-- Kotlin
-- Firebase
-- Room Database
-- MVVM Architecture
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" />
+</p>
 
 ### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
 
-### 🗄️ Databases
-- MySQL
-- MongoDB
-- Firebase
-- Room Database
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
 
 ### ☁️ Cloud & Tools
-- AWS
-- Git
-- GitHub
-- VS Code
-- Android Studio
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+</p>
 
 ---
 
-## 📱 Projects
+## 🚀 Featured Projects
 
-### 📌 Student Attendance App
+### 📱 Student Attendance App
 
-An Android application designed to manage student attendance efficiently and simplify attendance tracking.
+An Android application designed to simplify student attendance management and tracking.
 
-**Technologies:** Kotlin, Android Studio, Firebase, Room Database, MVVM
+**Technologies:**
+
+`Kotlin` `Android Studio` `Firebase` `Room Database` `MVVM`
+
+🔗 [View Project](#)
 
 ---
 
-### 📌 Blog Website
+### 🌐 Blog Website
 
-A web application that allows users to create and manage blog posts and comments with backend functionality.
+A full-stack blogging platform for creating and managing blog posts and comments.
 
-**Technologies:** Node.js, Express.js, MongoDB
+**Technologies:**
+
+`Node.js` `Express.js` `MongoDB` `JavaScript`
+
+🔗 [View Project](#)
 
 ---
 
 ## 📚 Currently Learning
 
-- 📱 Kotlin & Android Development
-- 🌐 Backend Development with Node.js
-- 🍃 MongoDB
-- ⚛️ React
-- ☁️ AWS Cloud Computing
-- 🔄 Agile & Software Development
-- 🔧 Git & GitHub
+```text
+Android Development    █████████████████░░░  85%
 
----
+Java                   █████████████████░░░  85%
 
-## 🎯 Interests
+Web Development        ███████████████░░░░░  75%
 
-- Android Application Development
-- Web Development
-- Cloud Computing
-- Database Management
-- Software Development
-- Learning New Technologies
+Node.js                ███████████████░░░░░  75%
 
----
+MongoDB                ███████████████░░░░░  75%
 
-## 🤝 Connect With Me
-
-💼 **LinkedIn:** [Add your LinkedIn URL]
-
-🐙 **GitHub:** [Add your GitHub URL]
-
-📧 **Email:** [Add your Email]
-
----
-
-## ⭐ Thank You for Visiting!
-
-Thanks for visiting my GitHub profile!  
-Feel free to explore my repositories and projects. 😊
-
-⭐ **Keep Learning • Keep Building • Keep Growing**
+AWS                    █████████████░░░░░░░  65%
