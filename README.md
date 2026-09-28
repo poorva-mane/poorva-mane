@@ -358,11 +358,64 @@ More projects are currently being built.
 
 ---
 
-<h2 align="center">📊 My Developer Journey</h2>
+<!-- =========================
+     📊 GITHUB STATS
+========================= -->
+
+<h2 align="center">📊 My GitHub Statistics</h2>
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Poorva Mane GitHub Stats" width="495"/>
+  &nbsp;&nbsp;
+  <img src="./profile/top-langs.svg" alt="Poorva Mane Top Languages" width="350"/>
+</p>
+
+<br>
+
+---
+
+<!-- =========================
+     📈 ACTIVITY GRAPH
+========================= -->
+
+<h2 align="center">📈 My Developer Journey</h2>
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=poorva-mane&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</p>
+
+<br>
+
+---
+
+<!-- =========================
+     🐍 CONTRIBUTION SNAKE
+========================= -->
+
+<h2 align="center">🐍 My Contribution Journey</h2>
+
+<p align="center">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/poorva-mane/poorva-mane/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/poorva-mane/poorva-mane/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/poorva-mane/poorva-mane/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
 
 </p>
 
