@@ -381,9 +381,7 @@ More projects are currently being built.
 <h2 align="center">📈 My Developer Journey</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poorva-mane&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorva-mane&theme=tokyonight&hide_border=true" alt="Poorva Mane GitHub Streak" />
 </p>
 
 <br>
